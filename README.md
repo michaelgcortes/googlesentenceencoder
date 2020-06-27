@@ -1,4 +1,4 @@
-# googlesentenceencoder
+# How to download Google's sentence encoder and use it. 
 Using Google's sentence encoder to embed/encode text. 
 
 
